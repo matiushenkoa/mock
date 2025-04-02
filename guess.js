@@ -1,4 +1,4 @@
-const PICKED_NUM = 91;
+const PICKED_NUM = 99;
 
 const guess = (num) => {
     if (num === PICKED_NUM) {
